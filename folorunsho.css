@@ -1136,14 +1136,6 @@ video {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
-.grid-rows-\[repeat\(9\2c _200px\)\] {
-  grid-template-rows: repeat(9, 200px);
-}
-
-.grid-rows-\[repeat\(9\2c _00px\)\] {
-  grid-template-rows: repeat(9, 00px);
-}
-
 .grid-rows-\[repeat\(9\2c _100px\)\] {
   grid-template-rows: repeat(9, 100px);
 }
@@ -1998,14 +1990,6 @@ video {
 
 .align-super {
   vertical-align: super;
-}
-
-.text-\[80px\] {
-  font-size: 80px;
-}
-
-.text-\[0px\] {
-  font-size: 0px;
 }
 
 .text-\[100px\] {
